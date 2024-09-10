@@ -1,4 +1,4 @@
-baseURL: https://fz.yangcuneba.online/ # 绑定的域名
+baseURL: https://fz.yangcuneba.site/ # 绑定的域名
 languageCode: zh # en-us
 title: yangcuneba's Blog
 theme: hugo-PaperMod  # 主题名字，和themes文件夹下的一致
@@ -114,7 +114,7 @@ params:
       - name: 🏖 生活
         url: posts/life
       - name: 回到主页
-        url: https://home.yangcuneba.online/
+        url: https://yangcuneba.fun/
       - name: 回到狼堡
         url: https://blog.yangcuneba.fun/
 
